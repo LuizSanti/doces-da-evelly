@@ -54,7 +54,7 @@ git clone https://github.com/seu-usuario/doces-da-evelly.git
 
 Caso queira trocar uma ideia ou tenha alguma sugestão:
 
-- LinkedIn: (https://www.linkedin.com/in/luiz-gabriel)
+- LinkedIn: (https://www.linkedin.com/in/luiz-gabriel-5a5b46277/)
 - Instagram da loja: https://instagram.com/docesdaevelly_)
 
 ---
