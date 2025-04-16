@@ -1,6 +1,6 @@
 # 🍫 Doces da Evelly - Site de Páscoa
 
-Este é um projeto pessoal desenvolvido para a minha lojinha de ovos de colher "Doces da Evelly", com o objetivo de transformar o cardápio de produtos em um site interativo, funcional e bonito — tudo isso como parte dos meus estudos em desenvolvimento web!
+Este é um projeto pessoal desenvolvido para a lojinha de ovos de colher "Doces da Evelly", com o objetivo de transformar o cardápio de produtos em um site interativo, funcional e bonito — tudo isso como parte dos meus estudos em desenvolvimento web!
 
 ## 🚀 Funcionalidades
 
@@ -23,7 +23,7 @@ Este é um projeto pessoal desenvolvido para a minha lojinha de ovos de colher "
 ## 📷 Imagens do projeto
 
 ### Página inicial com cardápio:
-![Página inicial com cardápio](./img/tela-inic-carrinhoAb.jpg)
+![Página inicial com carrinho](./img/tela-inic-carrinhoAb.jpg)
 
 ### Seleção de sabores e carrinho:
 ![Modal de seleção e carrinho](./img/modalAb.jpg)
@@ -58,6 +58,4 @@ Caso queira trocar uma ideia ou tenha alguma sugestão:
 - Instagram da loja: https://instagram.com/docesdaevelly_)
 
 ---
-
-Feito com 💜 e muito chocolate.
 
